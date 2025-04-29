@@ -1,4 +1,4 @@
-# Designing a web project structure based on grouping by fufeatures and colocation
+# Project design: colocation with features
 
 Этот документ описывает дизайн структуры исходного кода web-проекта основанного на принципах группировки исходного кода по принципам принадлежности и со-локации
 
